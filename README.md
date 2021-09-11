@@ -1,6 +1,7 @@
-# dsc_glbajaj
+# DSC GLBajaj
+[![Codemagic build status](https://api.codemagic.io/apps/613c2c939da1db431769dd66/613c2c939da1db431769dd65/status_badge.svg)](https://codemagic.io/apps/613c2c939da1db431769dd66/613c2c939da1db431769dd65/latest_build)
 
-A new Flutter application.
+Official App of Developer Student Club of GL Bajaj.
 
 ## Getting Started
 
